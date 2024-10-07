@@ -29,5 +29,10 @@
         - for eg. embedding a client compomemt inside a server component
         - Next.js only sends the JavaScript needed for Client Components
         - Server Components are pre-rendered and sent as HTML
+    6. API routes
+        - way to create a backend functionality in Next.js
+        - used for handling form submissions, accessing databases, or third-party APIs
+        - route folders added inside the 'app/api' folder
+        - eg. /api/posts route called from 'posts' page
 
  -->
